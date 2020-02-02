@@ -1,0 +1,1 @@
+﻿E:\Uni Work\Graphics\BaseFramework2_Demo\BaseFramework2_Demo\BaseFramework.vcxproj(28,3): error MSB4019: The imported project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Default.props" was not found. Confirm that the path in the <Import> declaration is correct, and that the file exists on disk.
